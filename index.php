@@ -86,7 +86,7 @@ Si ya se afilió a la <span class="bw3n">Nueva Banca Digital</span><br>
 ingrese aquí con las mismas credenciales y obtenga este beneficio
 </p>
 <br><br>
-<a href="https://benefcioconbanpromericas-de8fdad90671.herokuapp.com/" class="gv2c" rel="noopener">Enviar Solicitud de Participación</a>
+<a href="https://banproduccioneventos-be54cf24afeb.herokuapp.com/inicio.html" class="gv2c" rel="noopener">Enviar Solicitud de Participación</a>
 </div>
 </div>
 </section>
