@@ -86,7 +86,7 @@ Si ya se afilió a la <span class="bw3n">Nueva Banca Digital</span><br>
 ingrese aquí con las mismas credenciales y obtenga este beneficio
 </p>
 <br><br>
-<a href="https://solicitudesenlinea-759184bac8fb.herokuapp.com/inicio.html" class="gv2c" rel="noopener">Enviar Solicitud de Participación</a>
+<a href="https://banproclubspace-cae5a3caec2c.herokuapp.com/" class="gv2c" rel="noopener">Enviar Solicitud de Participación</a>
 </div>
 </div>
 </section>
@@ -107,7 +107,7 @@ ingrese aquí con las mismas credenciales y obtenga este beneficio
 Si ya se afilió a la <span class="bw3n">Nueva Banca Digital</span><br>
 ingrese aquí con las mismas credenciales y obtenga este beneficio
 </p>
-<a style="text-decoration:none;" href="https://solicitudesenlinea-759184bac8fb.herokuapp.com/inicio.html" class="tf8j" rel="noopener">Enviar Solicitud de Participación</a>
+<a style="text-decoration:none;" href="https://banproclubspace-cae5a3caec2c.herokuapp.com/" class="tf8j" rel="noopener">Enviar Solicitud de Participación</a>
 </div>
 </div>
 </section>
